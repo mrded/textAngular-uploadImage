@@ -1,6 +1,6 @@
 {
   "name": "textangular-uploadimage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "textAngular plugin allows you to upload images",
   "main": "index.js",
   "repository": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/mrded/textAngular-uploadImage#readme",
   "dependencies": {
-    "textangular": "^1.5.x",
+    "textangular": "^1.5.x"
   }
 }
