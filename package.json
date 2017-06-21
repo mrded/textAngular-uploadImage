@@ -1,0 +1,28 @@
+{
+  "name": "textangular-uploadimage",
+  "version": "0.0.1",
+  "description": "textAngular plugin allows you to upload images",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrded/textAngular-uploadImage.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "text editor",
+    "WYSIWYG",
+    "plugin",
+    "image",
+    "picture",
+    "upload"
+  ],
+  "author": "Dmitry Demenchuk @mrded (dmitry@demenchuk.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrded/textAngular-uploadImage/issues"
+  },
+  "homepage": "https://github.com/mrded/textAngular-uploadImage#readme",
+  "dependencies": {
+    "textangular": "^1.5.x",
+  }
+}
