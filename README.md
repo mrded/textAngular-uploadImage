@@ -6,8 +6,8 @@ After picking a file - it injects `<img>` tag with `base64` right into the conte
 ## Installation
 
 - [Latest release](https://github.com/mrded/textAngular-uploadImage/releases)
-- Bower: `bower install textAngular-uploadImage`
-- NPM: `npm install textAngular-uploadImage`
+- Bower: `bower install textangular-uploadimage`
+- NPM: `npm install textangular-uploadimage`
 
 ## Usage
 ```javascript
